@@ -3,7 +3,7 @@
 
 ## 目录
 
-### 1. [猴子选大王](/src/select_monkey_king.php)
+### 1. [猴子选大王](src/select_monkey_king.php)
 
 
 
